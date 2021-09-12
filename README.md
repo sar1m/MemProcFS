@@ -140,7 +140,7 @@ I put a lot of time and energy into PCILeech and MemProcFS and related research 
  
 If you like what I've created with PCIleech and MemProcFS with regards to DMA, Memory Analysis and Memory Forensics and would like to give something back to support future development please consider becoming a sponsor at: [`https://github.com/sponsors/ufrisk`](https://github.com/sponsors/ufrisk)
 
-To all my sponsors, Thank You 💖 
+To all my sponsors, Thank You very much 💖 
 
 All sponsorships are welcome, no matter how large or small. I especially wish to thank my **bronze sponsors**: [grandprixgp](https://github.com/grandprixgp).
 
